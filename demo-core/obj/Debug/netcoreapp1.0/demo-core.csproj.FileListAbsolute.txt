@@ -1,0 +1,14 @@
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\demo-core.deps.json
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\demo-core.runtimeconfig.json
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\demo-core.runtimeconfig.dev.json
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\demo-core.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\demo-core.pdb
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\FroalaEditorSDK.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\bin\Debug\netcoreapp1.0\FroalaEditorSDK.pdb
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.csprojResolveAssemblyReference.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.csproj.CoreCompileInputs.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.AssemblyInfoInputs.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.AssemblyInfo.cs
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.csproj.CopyComplete
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\demo-core\obj\Debug\netcoreapp1.0\demo-core.pdb

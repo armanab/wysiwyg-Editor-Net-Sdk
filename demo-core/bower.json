@@ -1,0 +1,7 @@
+{
+  "name": "demo-core",
+  "private": true,
+  "dependencies": {
+    "froala-wysiwyg-editor": "2.3.5" 
+  }
+}

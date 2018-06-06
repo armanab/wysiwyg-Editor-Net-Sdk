@@ -1,0 +1,10 @@
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\bin\Debug\net452\FroalaEditorSDK.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\bin\Debug\net452\FroalaEditorSDK.pdb
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\bin\Debug\net452\Magick.NET-Q16-AnyCPU.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\src.csprojResolveAssemblyReference.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\src.csproj.CoreCompileInputs.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\src.AssemblyInfoInputs.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\src.AssemblyInfo.cs
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\src.csproj.CopyComplete
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\FroalaEditorSDK.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\net452\FroalaEditorSDK.pdb

@@ -1,0 +1,56 @@
+{
+  "title": "FroalaEditorSDK",
+  "description": "Ease server integration of the Froala WYSIWYG HTML Editor.",
+  "name": "FroalaEditorSDK",
+  "version": "1.0.0",
+  "copyright": "Froala Labs",
+  "authors": [ "Froala" ],
+  "packOptions": {
+    "tags": [ "froala", "wysiwyg", "html", "editor", "rich", "text", "editor", "image", "upload" ],
+    "summary": "Ease server integration of the Froala WYSIWYG HTML Editor.",
+    "owners": [ "Froala" ],
+    "repository": { "url": "https://github.com/froala/wysiwyg-editor-dotnet-sdk" }
+  },
+  "buildOptions": {
+  },
+  "dependencies": {
+  },
+  "frameworks": {
+    "net452": {
+      "buildOptions": {
+        "define": [
+          "net452"
+        ]
+      },
+      "dependencies": {
+        "Magick.NET-Q16-AnyCPU": "7.0.3.502"
+      },
+      "frameworkAssemblies": {
+        "System.Xml": "4.0.0.0",
+        "System.Net": "4.0.0.0",
+        "System.Web": "4.0.0.0",
+        "System.Web.Extensions": "4.0.0.0"
+      }
+    },
+    "netstandard1.3": {
+      "buildOptions": {
+        "define": [
+          "netcore"
+        ]
+      },
+      "dependencies": {
+        "Magick.NET.Core-Q16": "7.0.3.502",
+        "Newtonsoft.Json": "9.0.1",
+        "Microsoft.AspNet.WebUtilities": "1.0.0-rc1-final",
+        "Microsoft.AspNetCore.Http": "1.0.0",
+        "Microsoft.AspNet.StaticFiles": "1.0.0-rc1-final",
+        "Microsoft.AspNetCore.Hosting": "1.0.0",
+        "NETStandard.Library": "1.6.1"
+      },
+      "imports": [
+        "dnxcore50",
+        "portable-net45+win7"
+      ]
+    }
+  }
+}

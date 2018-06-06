@@ -1,0 +1,8 @@
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\bin\Debug\netstandard1.3\FroalaEditorSDK.deps.json
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\bin\Debug\netstandard1.3\FroalaEditorSDK.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\bin\Debug\netstandard1.3\FroalaEditorSDK.pdb
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\netstandard1.3\src.csproj.CoreCompileInputs.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\netstandard1.3\src.AssemblyInfoInputs.cache
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\netstandard1.3\src.AssemblyInfo.cs
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\netstandard1.3\FroalaEditorSDK.dll
+C:\Users\abi\Downloads\wysiwyg-editor-dotnet-sdk-master (2)\wysiwyg-editor-dotnet-sdk-master\src\obj\Debug\netstandard1.3\FroalaEditorSDK.pdb
