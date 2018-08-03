@@ -1,6 +1,6 @@
-# Froala WYSIWYG Editor .NET SDK
+# Froala WYSIWYG Editor .NET SDK Without Bug By ArmanAB
 
-Easing the [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) server side integration in .NET projects.
+Easing the [Froala WYSIWYG HTML Editor](https://github.com/armanab/wysiwyg-Editor-Net-Sdk) server side integration in .NET projects.
 
 ## Dependencies
 
