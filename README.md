@@ -25,10 +25,6 @@ Easing the [Froala WYSIWYG HTML Editor](https://github.com/armanab/wysiwyg-Edito
 
  * [Official documentation](https://www.froala.com/wysiwyg-editor/docs/sdks/dotnet)
 
-## Help
-- Found a bug or have some suggestions? Just submit an issue.
-- Having trouble with your integration? [Contact Froala Support team](http://froala.com/wysiwyg-editor/contact).
-
 
 ## License
 
